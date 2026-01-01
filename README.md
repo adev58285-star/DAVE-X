@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://files.catbox.moe/ty9xvk.jpg" alt="Dave-Ai" width="300"/>
+  <img src="https://files.catbox.moe/2hnibx.jpg" alt="Dave-Ai" width="300"/>
 </p>
 
 <p align="center">
